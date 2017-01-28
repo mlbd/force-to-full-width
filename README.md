@@ -26,6 +26,6 @@ $('.inner-element').forceToFullWidth({
 You can pass multiple value in force2full function like
 
 ```
-$('.example a, .exmapleB a, .exmapleC a').forceToFullWidth();
+$('.example, .exmapleB, .exmapleC').forceToFullWidth();
 
 ```
