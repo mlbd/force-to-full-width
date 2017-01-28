@@ -1,0 +1,7 @@
+.inner-element {
+  background-color: #f6f6f6;
+  margin-left: calc((-100vw + 100%) / 2);
+  margin-right: calc((-100vw + 100%) / 2);
+  padding-left: calc((100vw - 100%) / 2);
+  padding-right: calc((100vw - 100%) / 2);
+}
